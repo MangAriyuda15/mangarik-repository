@@ -5,4 +5,4 @@ RESOLUSI TAHUN DEPAN
 - PHP Framework
 - Python
 - Java Tutorial
-- Video Vlog
+- Belajar GIT dan GITHUB
