@@ -8,4 +8,4 @@ RESOLUSI TAHUN DEPAN
   * Laravel
 - Python
 - Java Tutorial
-- Belajar GIT dan GITHUB
+
