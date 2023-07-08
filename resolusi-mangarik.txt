@@ -7,5 +7,7 @@ RESOLUSI TAHUN DEPAN
 - PHP Framework
   * Laravel
 - Python
+- Belajar GIT dan GITHUB
 - Java Tutorial
+
 
