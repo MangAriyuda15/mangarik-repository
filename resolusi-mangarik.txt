@@ -1,10 +1,13 @@
 RESOLUSI TAHUN DEPAN 
 
 - Javascript
-  * Node JS
+  * ES 6
   * Reatcs JS
 - Membuat Video Tentag Dasar Kodingan
 - PHP Framework
   * Laravel
 - Python
 - Belajar GIT dan GITHUB
+- Java Tutorial
+
+
